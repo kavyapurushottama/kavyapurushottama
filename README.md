@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me **pkavya11122003@gmail.com**
+📫 How to reach me **pkavya11122003@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 </div>
 </details>
 -->
-
-<div align="center">
+</br>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kavyapurushottama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyapurushottama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
