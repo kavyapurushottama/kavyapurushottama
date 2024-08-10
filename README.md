@@ -1,5 +1,4 @@
-<h1 align="center">Hi There!👋, I'm Purushottama Kavya </br> <a href="https://kavyapurushottama.com/ghpvc/?username=kavyapurushottama&abbreviated=true"> </h1>
-
+<h1 align="center">Hi There!👋, I'm Purushottama Kavya </br> <a href="https://github.com/kavyapurushottama"> <img src="https://komarev.com/ghpvc/?username=kavyapurushottama&abbreviated=true" alt="Profile views"/></a> </h1>
 
 <!--
 **kavyapurushottama/kavyapurushottama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
