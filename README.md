@@ -1,4 +1,4 @@
-<h1 align="center">Hi There!👋, I'm Purushottama Kavya</h1>
+<h1 align="center">Hi There!👋, I'm Purushottama Kavya </br> <a href="https://kavyapurushottama.com/ghpvc/?username=kavyapurushottama&abbreviated=true"> </h1>
 
 
 <!--
@@ -15,18 +15,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me **pkavya11122003@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p> Welcome to my profile! I'm passionate about Fullstack Development and a Software Development enthusiast. My passion for creating seamless user experiance and curiosity for robust and scalable systems pushed me into the world of development.</br> I'm commited to learning, building, and exploring through open source contributions, hackathons and events conducted by various tech communities and industries.</p>
 
-</p>
-
+## 📫 Connect with me
 <div align="left">
   <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" ></a>
   <a href="https://www.linkedin.com/in/pkavya-774217247"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"></a>
 </div>
+</br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavyapurushottama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyapurushottama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+</br>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Languages and Tools
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -49,9 +53,14 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma logo"  />
 </div>
 
-## GSSOC(24) Badges 🪶
+## 🏆GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
   <!--
   <details>	
@@ -71,11 +80,8 @@ Here are some ideas to get you started:
 </details>
 -->
 </br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavyapurushottama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyapurushottama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 <!--
 <br clear="both">
 <img src="https://raw.githubusercontent.com/kavyapurushottama/kavyapurushottama/output/snake.svg" alt="Snake animation" />
+📫 How to reach me **pkavya11122003@gmail.com**
 -->
